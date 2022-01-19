@@ -8,6 +8,4 @@ Blockchain University is a community driven instructional guide geared towards d
 
 The intention is to speed up the developer on-ramp to DeFi to make DeFi immediately accessible to as many developers as possible.
 
-.. raw:: html
-
 Contributions welcome at: https://github.com/x48115/blockchain-university
