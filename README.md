@@ -4,7 +4,9 @@
 [https://blockchain-university.vercel.app/](https://blockchain-university.vercel.app/contract-addresses.html)
 
 ## Request for contributors
-This repo is currently very incomplete. I don't have the time to finish this. Would love it if others created pull requests to finish this.
+This repo/project is currently incomplete. I would love it if others created pull requests to contribute.
+
+Join us at [discord](https://discord.gg/KPhtdR7m2m)
 
 ## Building documentation
 
